@@ -1,10 +1,18 @@
-import TestComponent from './components/testComponent/TestComponent';
+import { useSelector } from 'react-redux';
+import { Header } from './components/header/Header';
+import { Main } from './components/main/Main';
+import { Modal } from './components/modal/Modal';
 
 function App() {
+  const state = useSelector(state => state);
+  const {
+    modal: { visible },
+  } = state;
   return (
     <div className='App'>
-      <h2>Tinder</h2>
-      <TestComponent />
+      <Header />
+      <Main />
+      {visible ? <Modal /> : null}
     </div>
   );
 }
