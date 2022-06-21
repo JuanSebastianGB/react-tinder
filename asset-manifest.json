@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tinder/static/css/main.e6c13ad2.css",
+    "main.js": "/react-tinder/static/js/main.2536908d.js",
+    "static/js/787.ed9a2790.chunk.js": "/react-tinder/static/js/787.ed9a2790.chunk.js",
+    "index.html": "/react-tinder/index.html",
+    "main.e6c13ad2.css.map": "/react-tinder/static/css/main.e6c13ad2.css.map",
+    "main.2536908d.js.map": "/react-tinder/static/js/main.2536908d.js.map",
+    "787.ed9a2790.chunk.js.map": "/react-tinder/static/js/787.ed9a2790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2536908d.js"
+  ]
+}
