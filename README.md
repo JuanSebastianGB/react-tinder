@@ -2,7 +2,7 @@
 
 ### Result
 
-link: [Production](https://juansebastiangb.github.io/react-tinder/)
+link: [Production](http://juansebastiangb.github.io/react-tinder/)
 
 ### Running
 
